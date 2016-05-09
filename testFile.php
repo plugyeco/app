@@ -7,3 +7,4 @@
  */
 
 $developer = "dvidvlencia@gmail.com";
+$chekConfig = true;
